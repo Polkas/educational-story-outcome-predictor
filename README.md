@@ -2,6 +2,8 @@
 
 This project analyzes educational stories to predict intervention outcomes using transformer models optimized for Apple Silicon.
 
+[Hugging Face deployment](https://huggingface.co/polkas/educational-story-outcome-predictor)
+
 ## Quick Start
 
 1. **Install dependencies:**
